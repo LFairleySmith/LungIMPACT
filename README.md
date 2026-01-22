@@ -1,2 +1,2 @@
 # LungIMPACT
-LungIMPACT - code to support the analysis for the LungIMPACT study 
+LungIMPACT - code to support the statistical analysis for the LungIMPACT study 
